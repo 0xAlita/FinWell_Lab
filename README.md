@@ -1,6 +1,6 @@
-# FERROPOLIS — FINWELL_LAB
+# FIN_WELL_LAB
 **A Hitchhiker’s Guide to Financial Wellbeing**  
-**Decoding the Skyhook Protocol.**
+**Decoding the Fin-Well Protocol.**
 
 > **Assumptions first. Repro or it didn’t happen. Robustness beats optimism.**
 
