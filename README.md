@@ -1,4 +1,4 @@
-# FIN_WELL_LAB
+# FINWELL_LAB
 **A Hitchhiker’s Guide to Financial Wellbeing**  
 **Decoding the Fin-Well Protocol.**
 
